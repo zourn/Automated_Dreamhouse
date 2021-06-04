@@ -27,8 +27,5 @@ The capacitive buttons will start a weather alert which flashes the type of weat
 Pressing any of the real buttons along the side of the screen will stop the weather alert.
 
 When pressing a button to stop the alarm or the weather alert, hold the button until the LEDs show green.
-<<<<<<< HEAD
 
 The secrets.py file is needed to be read by the Funhouse standard library, but the data is never used in this project so there is no need to change the information in secrets.py.
-=======
->>>>>>> main
